@@ -1,5 +1,5 @@
-# **College Assignment** <br />
-<br />
+# **College Assignment for Web Technologies** <br />
+
 **Subject:**    Web Technologies <br />
 **Code:**       CSN-303 <br />
 **Semester:**   5th <br />
