@@ -1,4 +1,4 @@
-# **College Assignment for Web Technologies** <br />
+# **College Assignments for Web Technologies** <br />
 
 **Subject:**    Web Technologies <br />
 **Code:**       CSN-303 <br />
